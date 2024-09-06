@@ -28,7 +28,7 @@ const Project = () => {
         {
             id: 4,
             src: mobileShop,
-            link : 'https://signal-sphere.000webhostapp.com/',
+            link : 'http://signalsphere.lovestoblog.com/',
             gitLink : 'https://github.com/GGFZL/shop-phones'
         }
     ]
